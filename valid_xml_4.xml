@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE game_catalog SYSTEM "games_category.dtd">
+
+<game_catalog>
+    <game>
+        <id>4</id>
+        <name>Дългът зове: Безкрайната война</name>
+        <note>Играта е адаптация на книгата Песен за огън и лед</note>
+        <developer isin="US00507V1098">
+            <name>Инфинити Лърд</name>
+            <headquarters>
+                <city>Лоулдлънд Хил</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>444</number_employees>
+                <website>www.infinityward.com</website>
+                <boss>Грант Колиер</boss>
+            </company_info>
+        </developer>
+        <publisher isin="US00507V109">
+            <name>Активижън</name>
+            <headquarters>
+                <city>Санта Моника</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>9100</number_employees>
+                <website>activision.com</website>
+                <boss>Давид Грейн</boss>
+            </company_info>
+        </publisher>
+        <type>първи играч стреля</type>
+        <available_on platforms="2"/>
+        <data>
+            <day value="day">04</day>
+            <month value="month">11</month>
+            <year value="year">2014</year>
+        </data>
+        <count_of players="много"/>
+        <still_playing present="Да"/>
+    </game>
+</game_catalog>

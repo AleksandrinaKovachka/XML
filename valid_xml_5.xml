@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE game_catalog SYSTEM "games_category.dtd">
+
+<game_catalog>
+    <game>
+        <id>5</id>
+        <name>Фортнайт</name>
+        <note>Играчите трябва да убият зомби същества и да защитават обекти с капани и укрепления, които могат да изградят</note>
+        <developer isin="US29428L4032">
+            <name>Епик Гейм</name>
+            <headquarters>
+                <city>Кари</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>1000</number_employees>
+                <website>epicgames.com</website>
+                <boss>Тим Сленъй</boss>
+            </company_info>
+        </developer>
+        <publisher isin="US29428L4032">
+            <name>Епик Гейм</name>
+            <headquarters>
+                <city>Кари</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>1000</number_employees>
+                <website>epicgames.com</website>
+                <boss>Тим Сленъй</boss>
+            </company_info>
+        </publisher>
+        <type>игра на оцеляване</type>
+        <available_on platforms="9"/>
+        <data>
+            <day value="day">25</day>
+            <month value="month">07</month>
+            <year value="year">2017</year>
+        </data>
+        <count_of players="много"/>
+        <still_playing present="Да"/>
+    </game>
+</game_catalog>

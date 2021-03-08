@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT game_catalog (game*)>
+<!ELEMENT game (id, name, note?, developer, publisher, type, available_on, data, count_of, still_playing)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT note (#PCDATA)>
+    <!ELEMENT developer (name, headquarters, company_info)>
+    <!ELEMENT headquarters (city, country, type)>
+    <!ELEMENT city (#PCDATA)>
+    <!ELEMENT country (#PCDATA)>
+    <!ELEMENT type (#PCDATA)>
+    <!ELEMENT company_info (number_employees, website, boss)>
+    <!ELEMENT number_employees (#PCDATA)>
+    <!ELEMENT website (#PCDATA)>
+    <!ELEMENT boss (#PCDATA)>
+    <!ELEMENT publisher (name, headquarters, company_info)>
+    <!ELEMENT available_on (#PCDATA)>
+    <!ELEMENT data (day, month, year)>
+    <!ELEMENT day (#PCDATA)>
+    <!ELEMENT month (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+    <!ELEMENT count_of (#PCDATA)>
+    <!ELEMENT still_playing (#PCDATA)>
+
+    <!ATTLIST developer isin CDATA #REQUIRED>
+    <!ATTLIST still_playing present (Да|Не) "Да">
+    <!ATTLIST publisher isin CDATA #REQUIRED>
+    <!ATTLIST available_on platforms CDATA #REQUIRED>
+    <!ATTLIST day value CDATA #REQUIRED>
+    <!ATTLIST month value CDATA #REQUIRED>
+    <!ATTLIST year value CDATA #REQUIRED>
+    <!ATTLIST count_of players CDATA #REQUIRED>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ATTLIST region id CDATA #REQUIRED>
+<!ATTLIST mountain has (Да|Не) "Да">
+<!ATTLIST average_altitude metric_units CDATA #REQUIRED>
+<!ATTLIST length metric_units CDATA #REQUIRED>
+<!ATTLIST size metric_units CDATA #REQUIRED>
+<!ATTLIST percent percentage CDATA #REQUIRED>
+<!ATTLIST average_temperature unit CDATA #REQUIRED>

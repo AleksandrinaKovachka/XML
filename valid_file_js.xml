@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE game_catalog SYSTEM "games_category.dtd">
+
+<game_catalog>
+    <game>
+        <id>1</id>
+        <name>Игра на тронове: Генезис</name>
+        <note>Играта е адаптация на книгата Песен за огън и лед</note>
+        <developer isin="FR0000074072">
+            <name>Цианид</name>
+            <headquarters>
+                <city>Париж</city>
+                <country>Франция</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>110</number_employees>
+                <website>cyanide-studio.com</website>
+                <boss>Патрик Плигерсдорфър</boss>
+            </company_info>
+        </developer>
+        <publisher isin="FR0012419307">
+            <name>Фокус Хоум</name>
+            <headquarters>
+                <city>Париж</city>
+                <country>Франция</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>162</number_employees>
+                <website>focus-home.com</website>
+                <boss>Цедрик Лагаригу</boss>
+            </company_info>
+        </publisher>
+        <type>стратегическа</type>
+        <available_on platforms="1"/>
+        <data>
+            <day value="day">28</day>
+            <month value="month">09</month>
+            <year value="year">2011</year>
+        </data>
+        <count_of players="1"/>
+        <still_playing present="Да"/>
+    </game>
+</game_catalog>

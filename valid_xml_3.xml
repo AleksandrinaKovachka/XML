@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE game_catalog SYSTEM "games_category.dtd">
+
+<game_catalog>
+    <game>
+        <id>3</id>
+        <name>Алън Уейк</name>
+        <note>Историята проследява най-продавания роман на трилъра Алън Уейк, докато се опитва да разкрие тайната на изчезването на жена си по време на ваканция</note>
+        <developer isin="FI4000251897">
+            <name>Ремеди</name>
+            <headquarters>
+                <city>Еспо</city>
+                <country>Финландия</country>
+                <type>основна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>280</number_employees>
+                <website>remedygames.com</website>
+                <boss>Маркус Майки</boss>
+            </company_info>
+        </developer>
+        <publisher isin="US5949181045">
+            <name>ХБокс Майкрософт Студио</name>
+            <headquarters>
+                <city>Редмонд</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>2433</number_employees>
+                <website>xbox.com/xbox-game-studios</website>
+                <boss>Фил Спенсър</boss>
+            </company_info>
+        </publisher>
+        <type>приключенска</type>
+        <available_on platforms="1"/>
+        <data>
+            <day value="day">14</day>
+            <month value="month">05</month>
+            <year value="year">2010</year>
+        </data>
+        <count_of players="1"/>
+        <still_playing present="Да"/>
+    </game>
+</game_catalog>

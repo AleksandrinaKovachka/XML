@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE game_catalog SYSTEM "games_category.dtd">
+
+<game_catalog>
+    <game>
+        <id>2</id>
+        <name>Чудесата на годините: Магия на сенките</name>
+        <note>Магията на сенките е стратегическа видео игра, базирана на стъпки, във фантастична обстановка.</note>
+        <developer isin="SE0008294953">
+            <name>Триумф Студио</name>
+            <headquarters>
+                <city>Дефт</city>
+                <country>Холандия</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>40</number_employees>
+                <website>triumph.net</website>
+                <boss>Ленарт Сас</boss>
+            </company_info>
+        </developer>
+        <publisher isin="">
+            <name>Гедъринг</name>
+            <headquarters>
+                <city>Ню Йорк</city>
+                <country>САЩ</country>
+                <type>дъщерна компания</type>
+            </headquarters>
+            <company_info>
+                <number_employees>200</number_employees>
+                <website>www.godgames.com</website>
+                <boss>Мике Лилсън</boss>
+            </company_info>
+        </publisher>
+        <type>стратегическа</type>
+        <available_on platforms=""/>
+        <data>
+            <day value="day">25</day>
+            <month value="month">07</month>
+            <year value="year">2003</year>
+        </data>
+        <count_of players="много"/>
+        <still_playing present="Не"/>
+    </game>
+</game_catalog>
