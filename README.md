@@ -2,4 +2,4 @@
 
 This repository contains XML project about game catalog.
 
-Documentation
+[Documentation](https://github.com/AleksandrinaKovachka/XML/blob/master/XML_docum.pdf)
